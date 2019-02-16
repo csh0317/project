@@ -5,6 +5,11 @@ fun main(args: Array<String>) {
 //    Human().Hello()
     val h = Human()
     h.Hello()
+    var age = 19;
+    age = age+1;
+    var weight = 66.5f;
+    var name: String;
+    name = "Han"
 }
 
 class Human{
